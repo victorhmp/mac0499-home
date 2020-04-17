@@ -1,20 +1,25 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React, { FC } from 'react'
+import { Link, graphql } from 'gatsby'
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import Bio from '../components/bio'
+import Layout from '../components/layout'
+import Seo from '../components/seo'
+import { rhythm } from '../utils/typography'
 
-const BlogIndex = ({ data, location }) => {
+interface Props {
+  data: any
+  location: any
+}
+
+const BlogIndex: FC<Props> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
+      <Seo title="All posts" />
       <Bio />
-      {posts.map(({ node }) => {
+      {posts.map(({ node }: any) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <article key={node.fields.slug}>

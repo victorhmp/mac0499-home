@@ -1,19 +1,25 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React, { FC } from 'react'
+import { Link, graphql } from 'gatsby'
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+import Bio from '../components/bio'
+import Layout from '../components/layout'
+import Seo from '../components/seo'
+import { rhythm, scale } from '../utils/typography'
 
-const BlogPostTemplate = ({ data, pageContext, location }) => {
+interface Props {
+  data: any
+  pageContext: any
+  location: any
+}
+
+const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
