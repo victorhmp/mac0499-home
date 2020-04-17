@@ -1,10 +1,11 @@
 import React, { FC } from 'react'
 import { Link, graphql } from 'gatsby'
 
-import Bio from '../components/bio'
-import Layout from '../components/layout'
-import Seo from '../components/seo'
+import Bio from '../components/Bio'
+import Layout from '../components/Layout'
+import Seo from '../components/Seo'
 import { rhythm } from '../utils/typography'
+import Intro from '../components/Intro'
 
 interface Props {
   data: any
@@ -17,8 +18,9 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts" />
+      <Seo title="Home" />
       <Bio />
+      <Intro />
       {posts.map(({ node }: any) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
