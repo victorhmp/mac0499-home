@@ -70,4 +70,5 @@ module.exports = {
     `gatsby-plugin-typescript`,
     `gatsby-plugin-transition-link`,
   ],
+  pathPrefix: '/mac0499-home',
 }
