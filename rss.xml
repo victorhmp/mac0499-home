@@ -1,45 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MAC0499 - TCC]]></title><description><![CDATA[Home para um trabalho de conclusão de curso]]></description><link>https://linux.ime.usp.br/~victorhmp/mac0499</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Apr 2020 00:35:41 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://linux.ime.usp.br/~victorhmp/mac0499/hello-world/</link><guid isPermaLink="false">https://linux.ime.usp.br/~victorhmp/mac0499/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg&quot;
-        srcset=&quot;/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/a80bd/salty_egg.jpg 148w,
-/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/1c91a/salty_egg.jpg 295w,
-/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg 590w,
-/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/a8a14/salty_egg.jpg 885w,
-/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/fbd2c/salty_egg.jpg 1180w,
-/mac0499-home/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MAC0499 - TCC]]></title><description><![CDATA[Home para um trabalho de conclusão de curso]]></description><link>https://linux.ime.usp.br/~victorhmp/mac0499</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Apr 2020 03:32:57 GMT</lastBuildDate><item><title><![CDATA[Proposta de Trabalho]]></title><description><![CDATA[Introdução Documentação de software O tema central do trabalho que será desenvolvido ao longo do ano é a documentação de software. Algo…]]></description><link>https://linux.ime.usp.br/~victorhmp/mac0499/proposta/</link><guid isPermaLink="false">https://linux.ime.usp.br/~victorhmp/mac0499/proposta/</guid><pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introdução&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3&gt;Documentação de &lt;em&gt;software&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;O tema central do trabalho que será desenvolvido ao longo do ano é a documentação de &lt;em&gt;software&lt;/em&gt;. Algo presente em todos os sistemas de &lt;em&gt;software&lt;/em&gt;, em formas variadas, desde especificações de requisitos de um sistema, documentações utilizadas para justificar e detalhar a arquitetura de sistemas de &lt;em&gt;software&lt;/em&gt;, que são os tipos de documentação mais “distantes” do código-fonte de um dado sistema, até documentações de uso de APIs e comentários em código, o mais próximo possível do código-fonte.&lt;/p&gt;
+&lt;p&gt;Apesar da grande importância de uma documentação para a utilização e manutênção de um sistema de &lt;em&gt;software&lt;/em&gt;, estudos comprovam que, de maneira geral, engenheiros de &lt;em&gt;software&lt;/em&gt; não costumam atualizar documentações tão frequentemente, ou mesmo suficientemente, quanto mudanças no código são feitas, e existe uma percepção na comunidade de que o trabalho em melhoras de documentação são custosas e não trazem tanto benefício quanto a implementação de novas funcionalidades ou resolução de &lt;em&gt;bugs,&lt;/em&gt; por isso não são feitas com tanta frequência, e até vistas como “perda de tempo” por alguns desenvolvedores [1].&lt;/p&gt;
+&lt;p&gt;Em estudos realizados para compreender o motivo dessa visão, foram levantadas diferenças significativas quanto a percepção e a disposição de manutênção por parte de engenheiros de &lt;em&gt;software&lt;/em&gt; de acordo com o nível de abstração e de detalhe das diversas documentações que um dado sistema possui. Esse será o primeiro ponto de interesse deste trabalho. Vamos estudar qual a relevância da documentação de &lt;em&gt;software&lt;/em&gt; - no seu sentido mais amplo, em &lt;em&gt;softwares&lt;/em&gt; de diversas naturezas - para a sua utilização, de acordo com estudos já realizados.&lt;/p&gt;
+&lt;h3&gt;Importância da documentação em &lt;em&gt;software open-source&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Neste trabalho vamos focar especialmente na documentação de &lt;em&gt;software open-source,&lt;/em&gt; ou seja, &lt;em&gt;softwares&lt;/em&gt; de código-aberto em que, em geral, têm sua manutenção realizada não apenas por um time responsável, mas por uma comunidade de desenvolvedores.&lt;/p&gt;
+&lt;p&gt;Projetos de &lt;em&gt;software open-source&lt;/em&gt; possuem diferenças fundamentais a &lt;em&gt;softwares&lt;/em&gt; de código-fechado (&lt;em&gt;closed-source&lt;/em&gt;) quando ao seu processo de manutenção, controle de qualidade e sua documentação [2]. Uma delas é a falta de processos bem estabelecidos quanto a documentação, sendo esta abordada de diversas maneiras de acordo com as particularidades de cada projeto.&lt;/p&gt;
+&lt;p&gt;Uma pesquisa realizada por mim sobre as diferentes abordagens por diversos projetos &lt;em&gt;open-source&lt;/em&gt; está disponível em &lt;a href=&quot;https://linux.ime.usp.br/~victorhmp/mac0499-preliminar.pdf&quot;&gt;Pesquisa preliminar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Uma necessidade particular desse tipo de projeto é a da criação de uma comunidade saudável e acessível para contribuidores, e é nessa parte que esperamos observar um papel central de uma boa documentação, com base nos resultados aprensentados em [3].&lt;/p&gt;
+&lt;h3&gt;Cultura de documentação&lt;/h3&gt;
+&lt;p&gt;Outro tópico que vamos abordar durante esse trabalho é a importância e o processo de criação de uma “cultura de documentação”, ou seja, uma cultura que incentive e valorize a criação e manutenção de documentação de &lt;em&gt;software&lt;/em&gt; por parte do time &lt;em&gt;core&lt;/em&gt; [2] de um projeto &lt;em&gt;open-source&lt;/em&gt; e sua comunidade.&lt;/p&gt;
+&lt;p&gt;Esse tópico será de extrema importância quando formos avaliar a evolução do &lt;em&gt;software&lt;/em&gt; que utilizaremos como caso de estudo na parte final do trabalho.&lt;/p&gt;
+&lt;h3&gt;VTEX IO&lt;/h3&gt;
+&lt;p&gt;O VTEX IO é uma plataforma de desenvolvimento low-code e cloud-native que busca permitir que desenvolvedores entreguem soluções de negócio de maneira mais rápida e eficiente, sem se preocupar com infraestrutura ou processos de build de suas aplicações. Ela é utilizada para desenvolvimento de projetos de &lt;em&gt;front-end&lt;/em&gt; modernos, aplicações que extendem o ambiente de &lt;em&gt;admin&lt;/em&gt; da VTEX para auxiliar lojistas a melhorarem sua performance de venda, até aplicações &lt;em&gt;back-end&lt;/em&gt; com uso de &lt;a href=&quot;https://nodejs.org/&quot;&gt;&lt;em&gt;Node.js&lt;/em&gt;&lt;/a&gt; e &lt;a href=&quot;https://graphql.org/&quot;&gt;&lt;em&gt;GraphQL&lt;/em&gt;&lt;/a&gt;. O desenvolvimento de todas as aplicações é fortemente opinionado por &lt;em&gt;frameworks&lt;/em&gt; que garantem um desenvolvimento rápido e seguro.&lt;/p&gt;
+&lt;p&gt;Durante os últimos 14 meses, tenho trabalhado diratamente com o VTEX IO, sendo que durante os últimos 7 desses meses, tenho trabalhado no time que desenvolve o VTEX IO, mais especificamente o time que desenvolve o &lt;em&gt;framework&lt;/em&gt; de criação de lojas, chamado &lt;em&gt;Store Framework&lt;/em&gt;, composto por diversas aplicações &lt;em&gt;open-source&lt;/em&gt;. Durante esse tempo, tive um papel muito ativo na criação de uma cultura de documentação entre todos os desenvolvedores da plataforma, com a ajuda de &lt;em&gt;designers, technical writters&lt;/em&gt; e &lt;em&gt;project managers&lt;/em&gt;. Um dos passos mais importantes na criação de tal cultura foi a criação de um &lt;strong&gt;sistema de documentação&lt;/strong&gt;, dentro do próprio VTEX IO para conseguir centralizar uma documentação até então escassa e despersa. Todo o desenvolvimento e arquitetura desse sistema foi feito por mim com a ajuda de engenheiros da VTEX, e agora a documentação do VTEX IO pode ser encontrada em &lt;a href=&quot;https://vtex.io/docs&quot;&gt;VTEX IO Docs&lt;/a&gt;. Mais detalhes desse sistema pode ser encontrado na pesquisa preliminar citada na sessão anterior, disponível em &lt;a href=&quot;https://linux.ime.usp.br/~victorhmp/mac0499-preliminar.pdf&quot;&gt;Pesquisa preliminar&lt;/a&gt;, e serão descritos em detalhe na monografia.&lt;/p&gt;
+&lt;p&gt;Vamos utilizar o VTEX IO como um caso de estudo, e pretendemos avaliar o efeito que a criação de uma cultura de desenvolvimento, principalmente entre o time &lt;em&gt;core&lt;/em&gt; de desenvolvimento de um projeto &lt;em&gt;open-source,&lt;/em&gt; tem impactado o sucesso do projeto e o engajamento da comunidade.&lt;/p&gt;
+&lt;h2&gt;Objetivos&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Os principais objetivos que estamos buscanco atingir são os seguintes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigar qual a relevância empregada a documentação por engenheiros de &lt;em&gt;software&lt;/em&gt;, e como sua ela é utilizada;&lt;/li&gt;
+&lt;li&gt;Qual seu papel no sucesso de um projeto &lt;em&gt;open-source&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;Nos basear no caso de estudo do VTEX IO para avaliar o efeito que a criação de uma cultura, principalmente entre o time &lt;em&gt;core&lt;/em&gt; de desenvolvimento de um projeto &lt;em&gt;open-source&lt;/em&gt;, que incentive a criação e manutenção dessa documentação impacta o sucesso de tal projeto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Cronograma aproximado de atividades&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;As atividades que esperamos realizar durante o trabalho, visando a obtenção dos objetivos definidos acima são as seguintes, junto com estimativas dos meses de trabalho em cada uma delas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[&lt;em&gt;março - maio&lt;/em&gt;] Estudo de soluções existentes de documentação;&lt;/li&gt;
+&lt;li&gt;[&lt;em&gt;março - maio&lt;/em&gt;] Estudo de artigos sobre como a documentação de &lt;em&gt;software&lt;/em&gt; é vista e utilizada por engenheiros de &lt;em&gt;software&lt;/em&gt; e desenvolvedores em geral;&lt;/li&gt;
+&lt;li&gt;[&lt;em&gt;abril - junho&lt;/em&gt;] Estudo sobre como a documentação de projetos &lt;em&gt;open-source&lt;/em&gt; de sucesso são mantidas, como evoluem, o quão suficiente elas são, e qual a sua importância no sucesso desses projetos, principalmente no crescimento de suas comunidades;&lt;/li&gt;
+&lt;li&gt;[&lt;em&gt;julho - agosto&lt;/em&gt;] Iniciar estudo de caso com a coleta de estatísticas sobre o uso da documentação do VTEX IO;&lt;/li&gt;
+&lt;li&gt;[&lt;em&gt;agosto - setembro&lt;/em&gt;] Buscar entender a evolução da documentação do VTEX IO e o impacto que a criação do sistema de documentação e consequente implantação da nova cultura de desenvolvimento tiveram no crescimento e engajamento da sua comunidade;&lt;/li&gt;
+&lt;li&gt;[&lt;em&gt;maio - novembro&lt;/em&gt;] Escrever monografia;&lt;/li&gt;
+&lt;li&gt;[&lt;em&gt;novembro&lt;/em&gt;] Elaborar pôster para apresentação do trabalho final.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Referências&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;[1] T. C. Lethbridge, J. Singer and A. Forward, “How software engineers use documentation: the state of the practice,” in IEEE Software, vol. 20, no. 6, pp. 35-39, Nov.-Dec. 2003.&lt;/p&gt;
+&lt;p&gt;[2] M. Aberdour, “Achieving Quality in Open-Source Software,” in IEEE Software, vol. 24, no. 1, pp. 58-64, Jan.-Feb. 2007.&lt;/p&gt;
+&lt;p&gt;[3] A. Mockus, R. Fielding, and J. Herbsleb, “Two Case Studies of Open Source Software Development: Apache and Mozilla,” ACM Trans. Software Eng. and Methodology (TOSEM), vol. 11, no. 3, 2002, pp. 309–346.&lt;/p&gt;</content:encoded></item></channel></rss>
