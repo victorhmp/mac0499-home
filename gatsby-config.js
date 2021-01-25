@@ -3,7 +3,7 @@ module.exports = {
     title: `MAC0499 - TCC`,
     author: {
       name: `Victor Hugo M. Pinto`,
-      summary: `aluno de graduação em Ciência da Computação no IME-USP.`,
+      summary: `aluno de graduação em Ciência da Computação no IME-USP, orientado pelo professor Alfredo Goldman`,
     },
     description: `Home para um trabalho de conclusão de curso`,
     siteUrl: `https://linux.ime.usp.br/~victorhmp/mac0499`,
